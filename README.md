@@ -18,7 +18,7 @@ make run
 
 For arbitrary run:
 ```sh
-assembler -o input_object_file.o output_file.s
+assembler -o output_object_file.o input_file.s
 ```
 
 Run tests:
